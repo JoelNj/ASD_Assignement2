@@ -14,7 +14,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("test");
 
         Employee[] arrayOfEmployee = new Employee[]{
                 new Employee(1,"Daniel","Agar", LocalDate.of(2018,1,17),105945.50,
